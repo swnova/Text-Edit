@@ -37,6 +37,10 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application`
 
-##Deployed Application
+## Deployed Application
+
+
 https://text-editsw-app.herokuapp.com/
+
+
 <img width="1291" alt="Screen Shot 2022-12-22 at 11 51 21 AM" src="https://user-images.githubusercontent.com/113868025/209215945-d19478e2-e428-4278-810e-b080deafea32.png">
